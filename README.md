@@ -1,4 +1,4 @@
-# counter_bloc
+# Flutter Counter App Using BLoC
 
 A new Flutter project.
 
